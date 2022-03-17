@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.02" height="20.02" viewBox="0 0 20.02 20.02">
+    <g id="vuesax_linear_medal" data-name="vuesax/linear/medal" transform="translate(-108 -316)">
+        <g id="medal" transform="translate(108 316)">
+            <path id="Vector" d="M11.261,5.422a5.529,5.529,0,0,1-5.631,5.422A5.529,5.529,0,0,1,0,5.422,5.529,5.529,0,0,1,5.631,0,5.529,5.529,0,0,1,11.261,5.422Z" transform="translate(4.379 1.668)" fill="none" stroke="#003972" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Vector-2" data-name="Vector" d="M.008.15,0,6.306c0,.751.526,1.118,1.176.809L3.412,6.056a.864.864,0,0,1,.676,0L6.331,7.115c.642.3,1.176-.058,1.176-.809V0" transform="translate(6.265 11.128)" fill="none" stroke="#003972" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Vector-3" data-name="Vector" d="M0,0H20.02V20.02H0Z" fill="none" opacity="0"/>
+        </g>
+    </g>
+</svg>

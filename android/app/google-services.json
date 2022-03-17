@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006190873048",
+    "project_id": "e-larning-f42a5",
+    "storage_bucket": "e-larning-f42a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006190873048:android:353a2fbf5059bb96790aad",
+        "android_client_info": {
+          "package_name": "com.xsphere.e_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006190873048-8bjg64fb2aq2ivqdm5m505kocank2bn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xsphere.e_learning",
+            "certificate_hash": "be449721937fd1eaad6a87f04370d4c428ddbbeb"
+          }
+        },
+        {
+          "client_id": "1006190873048-d02nlghee2oao4k21avif4t0sa91usmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD_ms1sOWnwJZBbtd6Xil6K5HRGC97mK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006190873048-d02nlghee2oao4k21avif4t0sa91usmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

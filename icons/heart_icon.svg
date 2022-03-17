@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <g id="Group_46" data-name="Group 46" transform="translate(-166 -47)">
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="19" cy="19" r="19" transform="translate(166 47)" fill="#f4f5f7"/>
+        <g id="vuesax_linear_heart" data-name="vuesax/linear/heart" transform="translate(-60.013 -131.013)">
+            <g id="heart" transform="translate(236 188)">
+                <path id="Vector" d="M7.977,13.3a1.638,1.638,0,0,1-.931,0C4.867,12.558,0,9.456,0,4.2A4.186,4.186,0,0,1,4.176,0,4.143,4.143,0,0,1,7.511,1.682,4.166,4.166,0,0,1,15.022,4.2C15.022,9.456,10.155,12.558,7.977,13.3Z" transform="translate(1.502 2.328)" fill="none" stroke="#003972" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+                <path id="Vector-2" data-name="Vector" d="M0,0H18.026V18.026H0Z" fill="none" opacity="0"/>
+            </g>
+        </g>
+    </g>
+</svg>

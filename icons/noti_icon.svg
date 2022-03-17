@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <g id="Group_47" data-name="Group 47" transform="translate(-323 -47)">
+        <g id="Group_45" data-name="Group 45" transform="translate(115)">
+            <path id="Path_352" data-name="Path 352" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" transform="translate(208 47)" fill="#f4f5f7"/>
+        </g>
+        <path id="Icon_ionic-md-notifications-outline" data-name="Icon ionic-md-notifications-outline" d="M12.107,6.029a5.294,5.294,0,0,1,.876.164A3.732,3.732,0,0,1,15.828,9.85v4.674l.341.343.285.287H7.687l.285-.287.341-.343V9.85a3.732,3.732,0,0,1,2.845-3.657,6.483,6.483,0,0,1,.876-.164m.037-2.654a1.12,1.12,0,0,0-1.137,1.143v.533a4.937,4.937,0,0,0-3.792,4.8v4.19L5.625,15.563v.762H18.517v-.762L17,14.04V9.85a4.937,4.937,0,0,0-3.792-4.8V4.518a1.12,1.12,0,0,0-1.137-1.143Zm1.517,13.712H10.554a1.517,1.517,0,1,0,3.033,0Z" transform="translate(329.798 54.539)" fill="#003972" stroke="#003972" stroke-width="0.2"/>
+    </g>
+</svg>
